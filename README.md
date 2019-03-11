@@ -1,4 +1,4 @@
-# 죽음의 졸업 프로젝트2
+# 오픈소스 WAS Clustering을 이용한 고가용(High Availability) 시스템 구성
 
 ## 1. 주제
 

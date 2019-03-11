@@ -1,7 +1,7 @@
-## 오픈소스 WAS Clustering을 이용한 고가용(High Availability) 시스템 구성
+# 종합설계프로젝트2
 
 ## 1. 주제
-
+## -오픈소스 WAS Clustering을 이용한 고가용(High Availability) 시스템 구성
 
 ## 2. 팀 멤버
 

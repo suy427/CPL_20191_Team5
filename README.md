@@ -9,3 +9,8 @@
 ##### * 김선희 2016115113
 ##### * 배근령 2016114418
 ##### * 조현경 2016117078
+
+## 3. 참고링크
+
+##### * Trello https://trello.com/b/MVv3D1jA/%EA%B3%B5%EB%B6%80%ED%95%A0%EA%B2%83
+##### * Paper https://docs.google.com/document/d/1RGZTBazz09N-b5ONlWuKYiGiAR_Qy0uKX_iBhHcUKks/edit
